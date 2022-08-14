@@ -1,0 +1,158 @@
+
+
+
+body{
+  background-color: #090d0e;
+}
+
+#navbutt {
+  border: 2px solid #c9ab81;
+  background-color: #c9ab81;
+  line-height: 55px;
+  width: 218px;
+  min-width: 180px;
+  height: 60px;
+  letter-spacing: 2px;
+
+
+}
+
+#navbutt:hover{
+  background-color: transparent;
+}
+
+#navbutt2 {
+  border: 2px solid #c9ab81;
+  background-color: #c9ab81;
+  line-height: 55px;
+  width: 180px;
+  height: 60px;
+  letter-spacing: 2px;
+  font-weight: 600;
+
+}
+
+#navbutt2:hover{
+  background-color: transparent;
+}
+
+#firstimg {
+
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url("./img/d1.jpg");
+  width: 100%px;
+  height: 800px;
+}
+
+.special-text {
+  color: #c9ab81;
+  font-family: Miniver, cursive;
+}
+
+
+
+.restaurant-menu {
+  border-bottom: 2px dashed #acb8bb31;
+}
+
+.restaurant-menu1 {
+  font-size:0.7em;
+  border-bottom: 2px solid #acb8bb2a;
+color:#acb8bb;
+
+}
+
+#midbg {
+  background-image: url("img/v-bg.jpg");
+
+  width: 100%px;
+  height: 700px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+
+}
+
+#v-playx {
+  margin-top: 260px;
+}
+
+.special-position{
+
+position: relative;
+top: -100px;
+
+
+
+
+}
+.findmap{
+background-color: #0d1213;
+
+margin-top: 140px;
+
+}
+
+
+.fintime{
+background-color:  #c9ab81;
+  margin-top: 140px;
+}
+
+
+
+.pointx{
+font-size:xx-large ;
+
+
+}
+
+.pointxmain{
+  background-color: #0d1213;
+}
+
+.socialfb{
+
+padding: 10px 20px;
+background-color:#3b5999;
+}
+
+
+.socialtw{
+background-color: #55acee;
+padding: 10px 20px;
+}
+
+.socialyo{
+  padding: 10px 20px;
+  background-color: #cd201f;
+}
+
+.endlist{
+list-style: none;
+text-decoration: none;
+
+}
+iframe{
+  width: 90%;
+
+}
+
+.finalx{
+color: #7b888ba6;
+}
+
+.colory{
+color:#c9ab81;
+font-size: smaller;
+}
+
+
+.menudeco{
+  cursor: pointer;
+}
+#thelast:hover{
+color: #c9ab81;
+}
